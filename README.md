@@ -21,7 +21,7 @@ Results evaluated using several classification metrics:
 - [Area under ROC-curve](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html)
 - [Area under precision-recall curve](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html#sklearn.metrics.average_precision_score)
 
-### Libraries
+## Libraries
 - [Numpy](http://www.numpy.org/) — a package for scientific computing.
 - [Pandas](https://pandas.pydata.org/) — a library providing high-performance, easy-to-use data structures and data analysis tools for the Python
 - [scikit-learn](http://scikit-learn.org/stable/index.html) — a tool for data mining and data analysis.
