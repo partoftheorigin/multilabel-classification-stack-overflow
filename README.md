@@ -3,7 +3,6 @@ Predict tags for posts from StackOverflow with multilabel classification approac
 
 ## Dataset
 - Dataset of post titles from StackOverflow
-- Data download link: https://storage.googleapis.com/tensorflow-workshop-examples/stack-overflow-data.csv
 
 ## Transforming text to a vector
 - Transformed text data to numeric vectors using bag-of-words and TF-IDF.
